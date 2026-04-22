@@ -1,0 +1,9 @@
+[submodule "vue3-vite-ts-dictionary"]
+	path = vue3-vite-ts-dictionary
+	url = https://github.com/YoucheeXu/vue3-vite-ts-dictionary.git
+[submodule "flask_dict_backend"]
+	path = flask_dict_backend
+	url = https://github.com/YoucheeXu/flask_dict_backend.git
+[submodule "pywebview2_frontend"]
+	path = pywebview2_frontend
+	url = https://github.com/YoucheeXu/pywebview2_frontend.git
